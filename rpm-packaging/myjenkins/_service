@@ -2,7 +2,7 @@
 
   <service name="tar_scm">
     <param name="scm">git</param>
-    <param name="url">https://github.com/hgomez/devops-incubator.git</param>
+    <param name="url">https://github.com/sjatgutzmann/devops-incubator.git</param>
   </service>
 
   <service name="recompress">
@@ -19,21 +19,21 @@
   <service name="download_url">
    <param name="host">mirrors.jenkins-ci.org</param>
    <param name="protocol">http</param>
-   <param name="path">/war/1.643/jenkins.war</param>
+   <param name="path">/war/2.33/jenkins.war</param>
    <param name="filename">jenkins-1.643.war</param>
   </service>
 
   <service name="download_url">
    <param name="host">archive.apache.org</param>
    <param name="protocol">http</param>
-   <param name="path">/dist/tomcat/tomcat-7/v7.0.67/bin/extras/catalina-jmx-remote.jar</param>
-   <param name="filename">catalina-jmx-remote-7.0.67.jar</param>
+   <param name="path">/dist/tomcat/tomcat-7/v7.0.73/bin/extras/catalina-jmx-remote.jar</param>
+   <param name="filename">catalina-jmx-remote-7.0.73.jar</param>
    </service>
 
   <service name="download_url">
    <param name="host">archive.apache.org</param>
    <param name="protocol">http</param>
-   <param name="path">/dist/tomcat/tomcat-7/v7.0.67/bin/apache-tomcat-7.0.67.tar.gz</param>
+   <param name="path">/dist/tomcat/tomcat-7/v7.0.73/bin/apache-tomcat-7.0.73.tar.gz</param>
    </service>
 
 </services>
