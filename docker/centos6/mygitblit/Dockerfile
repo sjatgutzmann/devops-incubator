@@ -4,7 +4,7 @@
 #
 # VERSION               0.0.1
 
-FROM     sjatgutzmann/di-centos6-base
+FROM     hgomez/di-centos6-base
 MAINTAINER Sven Joerns "sj.at.gutzmann@gmail.com"
 
 # Install gitblit
