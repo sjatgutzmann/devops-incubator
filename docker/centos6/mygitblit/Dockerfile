@@ -4,8 +4,8 @@
 #
 # VERSION               0.0.1
 
-FROM     hgomez/di-centos6-base
-MAINTAINER Henri Gomez "henri.gomez@gmail.com"
+FROM     sjatgutzmann/di-centos6-base
+MAINTAINER Sven Joerns "sj.at.gutzmann@gmail.com"
 
 # Install gitblit
 RUN yum install mygitblit -y
