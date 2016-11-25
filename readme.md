@@ -2,13 +2,12 @@
 
 [![Join the chat at https://gitter.im/hgomez/devops-incubator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hgomez/devops-incubator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-![devops-incubator Logo](https://raw.github.com/hgomez/devops-incubator/master/images/devops-incubator-33pct.png)
+![devops-incubator Logo](https://raw.github.com/sjatgutzmann/devops-incubator/master/images/devops-incubator-33pct.png)
 
 Native Packaging sample for DevOps easy operations.
 These packages will bring you a ready to use Software, QA and Ops Factories.
 
 ##RPM packages
-[![Is maintained?](http://stillmaintained.com/hgomez/devops-incubator.png)](http://stillmaintained.com/hgomez/devops-incubator)
 
 ###Packages for Software Factories
 
